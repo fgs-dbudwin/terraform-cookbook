@@ -129,13 +129,11 @@ cookbook](https://supermarket.getchef.com/cookbooks/packer) by
 
 ### License and Author
 
-Author:: [Ross Timson][rosstimson]
-<[ross@rosstimson.com](mailto:ross@rosstimson.com)>
+Maintainer:: FoxGuard Solutions
 
-Contributor:: [Dang Nguyen][haidangwa]
-<[haidangwa@gmail.com](mailto:haidangwa@gmail.com)>
+Forked from https://github.com/rosstimson/chef-terraform, originally authored by [Ross Timson][rosstimson]<[ross@rosstimson.com](mailto:ross@rosstimson.com)>
 
-Copyright 2014, Ross Timson
+Copyright 2018 FoxGuard Solutions, 2014 Ross Timson
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -148,16 +146,3 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-
-
-[rosstimson]:         https://github.com/rosstimson
-[haidangwa]:          https://github.com/haidangwa
-[repo]:               https://github.com/rosstimson/chef-terraform
-[issues]:             https://github.com/rosstimson/chef-terraform/issues
-[terraform]:          http://www.terraform.io
-[chefspec]:           https://github.com/sethvargo/chefspec
-[foodcritic]:         https://github.com/acrmp/foodcritic
-[rubocop]:            https://github.com/bbatsov/rubocop
-[serverspec]:         https://github.com/serverspec/serverspec
-[testkitchen]:        https://github.com/test-kitchen/test-kitchen
-[ruby-gpgme]:         https://github.com/ueno/ruby-gpgme
